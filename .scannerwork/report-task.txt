@@ -1,0 +1,6 @@
+projectKey=student-task-manager
+serverUrl=http://localhost:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9000/dashboard?id=student-task-manager
+ceTaskId=79dde576-3029-4332-b373-006077080fda
+ceTaskUrl=http://localhost:9000/api/ce/task?id=79dde576-3029-4332-b373-006077080fda
